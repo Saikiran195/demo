@@ -1,0 +1,5 @@
+com\test\hibernate\App.class
+com\test\hibernate\Subject.class
+com\test\hibernate\Book.class
+com\test\hibernate\HibernateUtil.class
+com\test\hibernate\HibernateDao.class
